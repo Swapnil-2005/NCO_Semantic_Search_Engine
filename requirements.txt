@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+transformers
+faiss-cpu
+numpy
+scikit-learn
+pandas
+sqlite3-binary
+nltk
+google-cloud-speech API
