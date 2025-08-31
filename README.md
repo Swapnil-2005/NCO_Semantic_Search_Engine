@@ -1,7 +1,8 @@
 🚀 NCO Semantic Search Engine:
 
 A Semantic Search Engine built for the NCO Statathon Project, integrating Natural Language Processing (NLP), Vector Databases, and Speech-to-Text to enable fast and intelligent query search.
-📌 Features
+
+📌 Features :
 
 🔎 Semantic Search
 Uses FAISS vector database with transformer embeddings to retrieve results based on meaning, not just keywords.
@@ -33,4 +34,5 @@ Faster Filtering → Uses hybrid FAISS + SQLite for semantic + structured search
 Voice Support → Enables quick job searches without typing.
 
 Scalable → Can handle large-scale job databases efficiently.
+
 
