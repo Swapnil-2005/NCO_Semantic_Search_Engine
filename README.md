@@ -24,7 +24,7 @@ Optimized with FAISS for real-time query responses.
 
 🚀 Key Advantages for Job Search :
 
-Beyond Keywords → Finds jobs even if exact words differ (“ML Intern” ≈ “AI Research Trainee”).
+Beyond Keywords → Finds jobs even if exact words differ for e.g (“ML Intern” ≈ “AI Research Trainee”).
 
 Personalized Recommendations → Matches resume/profile with relevant jobs.
 
@@ -33,3 +33,4 @@ Faster Filtering → Uses hybrid FAISS + SQLite for semantic + structured search
 Voice Support → Enables quick job searches without typing.
 
 Scalable → Can handle large-scale job databases efficiently.
+
